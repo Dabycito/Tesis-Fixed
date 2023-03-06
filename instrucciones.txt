@@ -1,0 +1,21 @@
+Escribirle a Diego Fernandez bioembeddings
+
+secuencias -> codifico por propiedades -> fft
+
+**Leer protein language model
+- bioembeddings
+
+*saber que es un modelo preentrenado
+
+*******leer paper del correo
+
+properties son las propiedades, los grupos 0-7
+nlp modelos preentrenados
+
+notebooks es lo que hay que mejorar y automatizar
+
+********leer y releer el documento
+
+********hacer readme de los codigos y correrlos
+
+ver que debo correr y en base a eso, armar una planificacion

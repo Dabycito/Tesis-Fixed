@@ -1,0 +1,30 @@
+Distance Methods
+    Encoding Inputs
+        aaindex_encoders.csv
+            /Valores numericos de cada residuo por cada propiedad fisicoquimica
+        clustering_encoders.csv
+            /Valores numericos de cada residuo por grupo (0 al 7)
+    others
+        filter_dna_sequences.ipynb
+            /Filtra y elimina las secuencias de adn (????)
+        unique_sequences.csv
+            /Una lista de cada secuencia unica, con un id, la secuencia como tal y su nombre/descripcion
+    results demo
+        absortion
+            /Subcarpetas de este dataset segun su codificacion (Propiedades, FFT o NLP)
+        enantioselectivity
+            /Subcarpetas de este dataset segun su codificacion (Propiedades, FFT o NLP)
+        T50
+            /Subcarpetas de este dataset segun su codificacion (Propiedades, FFT o NLP)
+        localization
+            /Subcarpetas de este dataset segun su codificacion (Propiedades, FFT o NLP)
+    source code
+        distance_estimator
+            constant_values.py
+                /Solo parece contener valores constantes que se utilizan en algun lado, de los residuos
+            distance_estimator.py
+                /Posee la definicion de un objeto de tipo distance_estimator que posee los atributos dataset
+                type
+        encoding_proteins
+        notebooks
+    testing dataset
